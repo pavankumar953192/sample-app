@@ -12,4 +12,4 @@ instructions to run application
 
 6 - run "npm run-script start-json-server" or "json-server --watch db.json --port 3004" , this will start the json-server on the port number 3004
 
-7 - run "npm start" or "react-scripts start" to run the react frontend application on port 3000
+7 - open anothe cmd and run "npm start" or "react-scripts start" to run the react frontend application on port 3000
