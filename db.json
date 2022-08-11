@@ -1,31 +1,120 @@
 {
   "entertainment": [
     {
-      "name": "simadri ganta",
+      "name": "Hindi songs",
       "link": "https://www.youtube.com/embed/vbWseP2ix44",
       "id": 1
     },
     {
-      "name": "simadrinta",
-      "link": "https://www.youtube.com/embed/vbWseP2ixe44",
+      "name": "Stand up comedy",
+      "link": "https://www.youtube.com/embed/kcKQI0J6pmU",
+      "id": 34
+    },
+    
+    {
+      "name": "TELUGU SONGS",
+      "link": "https://www.youtube.com/embed/2VmgpHUld8o?autoplay=1",
+      "id": 3
+    },
+    
+    {
+      "name": "Election comedy",
+      "link": "https://www.youtube.com/embed/sy0T-M-4too?autoplay=1",
+      "id": 16
+    },
+    
+    {
+      "name": "Movie",
+      "link": "https://www.youtube.com/embed/gq4KwosLPPo?autoplay=1",
+      "id": 164
+    },
+    
+    {
+      "name": "so far away",
+      "link": "https://www.youtube.com/embed/AEHGw7qc9Lk?autoplay1",
       "id": 1
+    },
+    
+    {
+      "name": "zyan song",
+      "link": "<iframe width="560" height="315" src="https://www.youtube.com/embed/6AYpIeqoaAc?autoplay=1",
+      "id": 1344
+    },
+    
+     {
+      "name": "Kesarya",
+      "link": "<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/NJAv_7lHUIU?autoplay=1",
+      "id": 1344
+    },
+    
+     {
+      "name": "zyan song",
+      "link": "<iframe width="560" height="315" src="https://www.youtube.com/embed/6AYpIeqoaAc?autoplay=1",
+      "id": 1344
+    },
+    
+     {
+      "name": "song",
+      "link": "<iframe width="560" height="315" src="https://www.youtube.com/embed/_MoCmftCCUY?autoplay=1",
+      "id": 1344
     }
   ],
   "education": [
     {
       "id": "3s4d5f6v7mb",
-      "name": "456uy",
-      "link": "Httsp://gsfdshhdhhfdgg.com/gghj"
+      "name": "Python tutorial",
+      "link": "https://www.youtube.com/embed/61a7UkDO50s?autoplay=1"
     },
     {
-      "name": "simadru ganta",
-      "link": "https://www.youtube.com/embed/vbWseP2ix44",
+      "name": "Ful stack developer",
+      "link": "https://www.youtube.com/embed/Vq-bgH0yq6Y?autoplay=1",
       "id": "JEk3YTG"
     },
     {
-      "id": "c3s4vd5bf6gn7",
-      "name": "zxectrbyfv ghbj",
-      "link": "czw4e6cbrvtnymunm zsx dcfvgbhjnmk"
+      "id": "783484",
+      "name": "HtML in 9 min",
+      "link": "https://www.youtube.com/embed/Ut4RpySLM6Y?autoplay=1"
+    },
+    
+     {
+      "id": "3s4d5f6v7mb45",
+      "name": "Html5 tutorial",
+      "link": "https://www.youtube.com/embed/PJAWLl92J3U?autoplay=1"
+    },
+     {
+      "id": "3s4d5f6v7mb3",
+      "name": "Python tutorial",
+      "link": "https://www.youtube.com/embed/61a7UkDO50s?autoplay=1"
+    },
+     {
+      "id": "3s4d5f6v7mbr3",
+      "name": "GK questions",
+      "link": "<iframe width="560" height="315" src="https://www.youtube.com/embed/1ILuIMngJg8?autoplay=1"
+    },
+     {
+      "id": "3s4d5f6v7mb344",
+      "name": "Scrum Explain",
+      "link": "https://www.youtube.com/embed/xVi3lgyD080?autoplay=1"
+    },
+     {
+      "id": "3s4d5f6v7mb8765",
+      "name": "Python tutorial",
+      "link": "https://www.youtube.com/embed/61a7UkDO50s?autoplay=1"
+    },
+     {
+      "id": "3s4d5f6v7mbe445",
+      "name": "Easy way to code",
+      "link": "https://www.youtube.com/embed/_N6j8HXPt2U?autoplay=1"
+    },
+     {
+      "id": "3s4d5f6v7mb",
+      "name": "SQL explained",
+      "link": "https://www.youtube.com/embed/UOJZTqA5Loc?autoplay=1"
+    },
+     {
+      "id": "3s4d5f6v7mb",
+      "name": "What is API",
+      "link": "https://www.youtube.com/embed/XGa4onZP66Q?autoplay=1"
     }
   ]
 }
