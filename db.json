@@ -1,120 +1,136 @@
 {
   "entertainment": [
     {
-      "name": "Hindi songs",
-      "link": "https://www.youtube.com/embed/vbWseP2ix44",
+      "name": "simadrinta",
+      "link": "https://www.youtube.com/embed/vbWseP2ixe44",
       "id": 1
     },
     {
-      "name": "Stand up comedy",
-      "link": "https://www.youtube.com/embed/kcKQI0J6pmU",
-      "id": 34
+      "id": "7655",
+      "name": "playvideo",
+      "link": "https://www.youtube.com/embed/AEHGw7qc9Lk ?autoplay=1"
     },
-    
     {
-      "name": "TELUGU SONGS",
-      "link": "https://www.youtube.com/embed/2VmgpHUld8o?autoplay=1",
-      "id": 3
+      "id": "65656",
+      "name": "puspa",
+      "link": "https://www.youtube.com/embed/sqmNziU3OxQ?autoplay=1"
     },
-    
     {
-      "name": "Election comedy",
-      "link": "https://www.youtube.com/embed/sy0T-M-4too?autoplay=1",
-      "id": 16
+      "id": "13234",
+      "name": "ala re ala",
+      "link": "https://www.youtube.com/embed/tKBa64-w4XA ?autoplay=1"
     },
-    
     {
-      "name": "Movie",
-      "link": "https://www.youtube.com/embed/gq4KwosLPPo?autoplay=1",
-      "id": 164
+      "id": "454545",
+      "name": "kapil sharma",
+      "link": "https://www.youtube.com/embed/EA8Lt-awvy8 ?autoplay=1"
     },
-    
     {
-      "name": "so far away",
-      "link": "https://www.youtube.com/embed/AEHGw7qc9Lk?autoplay1",
-      "id": 1
+      "id": "33",
+      "name": "cartoon",
+      "link": "https://www.youtube.com/embed/P_WYV5fNl4g?autoplay=1"
     },
-    
     {
-      "name": "zyan song",
-      "link": "<iframe width="560" height="315" src="https://www.youtube.com/embed/6AYpIeqoaAc?autoplay=1",
-      "id": 1344
+      "id": "45454",
+      "name": "scooby",
+      "link": "https://www.youtube.com/embed/9VRsQ0-dGdQ?autoplay=1"
     },
-    
-     {
-      "name": "Kesarya",
-      "link": "<iframe width="560" height="315" src="https://www.youtube.com/embed/NJAv_7lHUIU?autoplay=1",
-      "id": 1344
+    {
+      "id": "5656434",
+      "name": "fight",
+      "link": "https://www.youtube.com/embed/gD7qJ3TW1jw?autoplay=1"
     },
-    
-     {
-      "name": "zyan song",
-      "link": "<iframe width="560" height="315" src="https://www.youtube.com/embed/6AYpIeqoaAc?autoplay=1",
-      "id": 1344
+    {
+      "id": "85858582",
+      "name": "karatekid",
+      "link": "https://www.youtube.com/embed/xbo3-wxpr1M?autoplay=1"
     },
-    
-     {
-      "name": "song",
-      "link": "<iframe width="560" height="315" src="https://www.youtube.com/embed/_MoCmftCCUY?autoplay=1",
-      "id": 1344
+    {
+      "id": "876667",
+      "name": "hulk",
+      "link": "https://www.youtube.com/embed/n4tWT-Tzff0?autoplay=1"
+    },
+    {
+      "id": "455796",
+      "name": "standup comedy",
+      "link": "https://www.youtube.com/embed/XBjsXDRxQEs?autoplay=1"
+    },
+    {
+      "id": "76543345668",
+      "name": "Songs",
+      "link": "https://www.youtube.com/embed/2VmgpHUld8o?autoplay=1"
     }
   ],
   "education": [
     {
-      "id": "3s4d5f6v7mb",
-      "name": "Python tutorial",
-      "link": "https://www.youtube.com/embed/61a7UkDO50s?autoplay=1"
+      "id": "345454",
+      "name": "codewithharry",
+      "link": "https://www.youtube.com/embed/rV_3Lewxx6o?autoplay=1"
     },
     {
-      "name": "Full stack developer",
-      "link": "https://www.youtube.com/embed/Vq-bgH0yq6Y?autoplay=1",
-      "id": "JEk3YTG"
+      "id": "4545940",
+      "name": "python",
+      "link": "https://www.youtube.com/embed/gfDE2a7MKjA?autoplay=1"
     },
     {
-      "id": "783484",
-      "name": "HtML in 9 min",
-      "link": "https://www.youtube.com/embed/Ut4RpySLM6Y?autoplay=1"
+      "id": "75844",
+      "name": "javascript",
+      "link": "https://www.youtube.com/embed/hKB-YGF14SY?autoplay=1"
     },
-    
-     {
-      "id": "3s4d5f6v7mb45",
-      "name": "Html5 tutorial",
-      "link": "https://www.youtube.com/embed/PJAWLl92J3U?autoplay=1"
+    {
+      "id": "9797",
+      "name": "React classes",
+      "link": "https://www.youtube.com/embed/RGKi6LSPDLU?autoplay=1"
     },
-     {
-      "id": "3s4d5f6v7mb3",
-      "name": "Python tutorial",
-      "link": "https://www.youtube.com/embed/61a7UkDO50s?autoplay=1"
+    {
+      "id": "986778",
+      "name": "code for placement",
+      "link": "https://www.youtube.com/embed/AgyTHzjBS-c?autoplay=1"
     },
-     {
-      "id": "3s4d5f6v7mbr3",
-      "name": "GK questions",
-      "link": "<iframe width="560" height="315" src="https://www.youtube.com/embed/cpt1owM0eag?autoplay=1"
+    {
+      "id": "9457935",
+      "name": "full stack developer",
+      "link": "https://www.youtube.com/embed/Vq-bgH0yq6Y?autoplay=1"
     },
-     {
-      "id": "3s4d5f6v7mb344",
-      "name": "Scrum Explain",
-      "link": "https://www.youtube.com/embed/xVi3lgyD080?autoplay=1"
+    {
+      "id": "y8765",
+      "name": "blockchain development",
+      "link": "https://www.youtube.com/embed/uULy2rc6YDc?autoplay=1"
     },
-     {
-      "id": "3s4d5f6v7mb8765",
-      "name": "Python tutorial",
-      "link": "https://www.youtube.com/embed/61a7UkDO50s?autoplay=1"
+    {
+      "id": "6567654",
+      "name": "web deveoper to be",
+      "link": "https://www.youtube.com/embed/Ibx2Ri5Blh0?autoplay=1"
     },
-     {
-      "id": "3s4d5f6v7mbe445",
-      "name": "Easy way to code",
-      "link": "https://www.youtube.com/embed/_N6j8HXPt2U?autoplay=1"
+    {
+      "id": "45775",
+      "name": "How to crack interview",
+      "link": "https://www.youtube.com/embed/vU3dL1cNqgQ?autoplay=1"
     },
-     {
-      "id": "3s4d5f6v7mb",
-      "name": "SQL explained",
+    {
+      "id": "876678",
+      "name": "SQL basic",
       "link": "https://www.youtube.com/embed/UOJZTqA5Loc?autoplay=1"
     },
-     {
-      "id": "3s4d5f6v7mb",
+    {
+      "id": "765678",
       "name": "What is API",
       "link": "https://www.youtube.com/embed/XGa4onZP66Q?autoplay=1"
+    },
+    {
+      "id": "76567899",
+      "name": "AWS Explained",
+      "link": "https://www.youtube.com/embed/BSGcQi2WNPg?autoplay=1"
+    },
+    {
+      "id": "89940333",
+      "name": "Angular tutorial",
+      "link": "https://www.youtube.com/embed/Ati-oip_HcU?autoplay=1"
+    },
+    {
+      "id": "947428",
+      "name": "Scrum",
+      "link": "https://www.youtube.com/embed/xVi3lgyD080?autoplay=1"
     }
   ]
 }
